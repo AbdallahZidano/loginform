@@ -1,0 +1,39 @@
+name: screen_util_app
+description: A new Flutter project.
+
+publish_to: "none" 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_screenutil: ^5.0.0+2
+  get: ^4.6.1
+  shared_preferences: ^2.0.13
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.0.5
+
+flutter_native_splash:
+  color: "#F0F0F0"
+  image: assets/images/mobile.png
+  android_gravity: center
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo.ttf
+
