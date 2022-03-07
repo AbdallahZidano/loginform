@@ -5,13 +5,13 @@ This project is a login and registration form to use in future applications beca
 ## Getting Started
 
 Features:
-1. useing mvc pattern
-2. support mulit language (localeization) (ar - en)
-3. uses getx as (state management)
-4. it contains native splash screen
-5. modern & simple design
-6. you can edit eny thing simpley (clean code) 
-7. uses sharedpreferences to save the selected language and login state
+1. Use mvc pattern
+2. Mulit language support (localization) (ar - en)
+3. Getx is used as (state management)
+4. Contains the native splash screen
+5. Modern & simple design
+6. You can simply modify anything (clean code)
+7. Uses sharedpreferences to save the selected language and login status
 
 ## Screenshots
 
